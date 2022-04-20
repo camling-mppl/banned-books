@@ -27,6 +27,16 @@
   color: #61dafb;
 }
 
+.listContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listContainer .listItem {
+  width: 33%;
+  cursor: pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -34,4 +44,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@keyframes fade {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
 }
