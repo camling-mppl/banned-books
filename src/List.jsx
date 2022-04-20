@@ -30,7 +30,7 @@ function List(props)
             
         }}>
             <h2>{book.title} </h2>
-            <img style={{maxWidth: '100px'}} alt={book.title} src={book.image} />
+            <img alt={book.title} src={book.image} />
             
         </div>
         ))}

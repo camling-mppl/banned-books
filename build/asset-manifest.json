@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/banned-books/static/css/main.5baccce5.css",
+    "main.js": "/banned-books/static/js/main.938d3f27.js",
+    "static/js/787.4fb6008a.chunk.js": "/banned-books/static/js/787.4fb6008a.chunk.js",
+    "static/media/9781616202620.jpeg": "/banned-books/static/media/9781616202620.eb6be5c28de2a64fffb9.jpeg",
+    "static/media/9780316013697.jpeg": "/banned-books/static/media/9780316013697.14a30e647ca0fa5a2f60.jpeg",
+    "static/media/9781419701764.jpeg": "/banned-books/static/media/9781419701764.693f9c081858574d1903.jpeg",
+    "static/media/9780763656119.jpeg": "/banned-books/static/media/9780763656119.01bf446feca7d6534583.jpeg",
+    "static/media/9780374312718.jpeg": "/banned-books/static/media/9780374312718.1a2848e23d6e6d3769d9.jpeg",
+    "static/media/9781549304002.jpeg": "/banned-books/static/media/9781549304002.8fc3b663e295633a5a61.jpeg",
+    "static/media/9781492617822.jpeg": "/banned-books/static/media/9781492617822.0e4f331907629418bb8f.jpeg",
+    "static/media/9781467742023.jpeg": "/banned-books/static/media/9781467742023.6886b27a4eecd8c5d0b4.jpeg",
+    "static/media/9780375411557.jpeg": "/banned-books/static/media/9780375411557.c57d19b744405b1f0bdf.jpeg",
+    "static/media/9780062498533.jpeg": "/banned-books/static/media/9780062498533.c3d42797700ce070f471.jpeg",
+    "index.html": "/banned-books/index.html",
+    "main.5baccce5.css.map": "/banned-books/static/css/main.5baccce5.css.map",
+    "main.938d3f27.js.map": "/banned-books/static/js/main.938d3f27.js.map",
+    "787.4fb6008a.chunk.js.map": "/banned-books/static/js/787.4fb6008a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5baccce5.css",
+    "static/js/main.938d3f27.js"
+  ]
+}

@@ -9,10 +9,10 @@ function Detail(props)
     return (
         <div className="detailsPanel">
             <div className="singleBook">
-            <a href={book.link}><img alt={book.title} src={book.image} /></a>
+            <a target="_blank" rel="noreferrer" href={book.link}><img alt={book.title} src={book.image} /></a>
             <h2 className="title">{book.title} </h2>
             <h3 className="author">{book.author}</h3>
-            <a href={book.link}><h4 className="link">Link</h4></a>
+            <a target="_blank" rel="noreferrer" href={book.link}><h4 className="link">Link</h4></a>
             <p className="ibsn">{book.ibsn}</p>
             <p className="description">{book.description}</p>
             <p className="reasons">{book.reasons}</p>
