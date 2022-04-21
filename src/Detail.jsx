@@ -8,7 +8,13 @@ function Detail(props)
 
     return (
         <div className="detailsPanel">
-            <div className="singleBook">
+            <div  style={{
+            opacity:0,
+            animationName: 'fade',
+            animationIterationCount: '1',
+            animationDuration: '1s', 
+            animationFillMode: 'forwards'
+        }} className="singleBook">
             <a target="_blank" rel="noreferrer" href={book.link}><img alt={book.title} src={book.image} /></a>
             <h2 className="title">{book.title} </h2>
             <h3 className="author">{book.author}</h3>
